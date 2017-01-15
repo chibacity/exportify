@@ -1,10 +1,11 @@
-[![Build Status](http://img.shields.io/travis/watsonbox/exportify.svg?style=flat)](https://travis-ci.org/watsonbox/exportify)
 
-<a href="https://rawgit.com/watsonbox/exportify/master/exportify.html"><img src="screenshot.png"/></a>
+[comment]: # [![Build Status](http://img.shields.io/travis/watsonbox/exportify.svg?style=flat)](https://travis-ci.org/watsonbox/exportify)
+
+<a href="https://rawgit.com/chibacity/exportify/master/exportify.html"><img src="screenshot.png"/></a>
 
 Export your Spotify playlists using the Web API by clicking on the link below:
 
-[https://rawgit.com/watsonbox/exportify/master/exportify.html](https://rawgit.com/watsonbox/exportify/master/exportify.html)
+[https://rawgit.com/chibacity/exportify/master/exportify.html](https://rawgit.com/chibacity/exportify/master/exportify.html)
 
 As many users have noted, there is no way to export/archive playlists from the Spotify client for safekeeping. This application provides a simple interface for doing that using the Spotify Web API.
 
@@ -60,7 +61,7 @@ Then open [http://localhost:8000/exportify.html](http://localhost:8000/exportify
 
 ## Contributing
 
-1. Fork it ( https://github.com/watsonbox/exportify/fork )
+1. Fork it ( https://github.com/chibacity/exportify/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
